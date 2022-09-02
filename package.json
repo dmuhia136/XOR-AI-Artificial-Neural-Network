@@ -1,0 +1,17 @@
+{
+  "name": "ai-test-1",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "brain.js": "^2.0.0-beta.15",
+    "gpu.js": "^1.4.9",
+    "nodemon": "^2.0.19"
+  }
+}
